@@ -1,1 +1,1 @@
-print()[D"Hellow Git Test\n")
+print('Hellow Git Test\n')
